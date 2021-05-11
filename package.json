@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/ucfabdou/travel-site#readme",
   "dependencies": {
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "normalize.css": "^8.0.1",
     "postcss-import": "^14.0.0",
     "save-dev": "0.0.1-security"
